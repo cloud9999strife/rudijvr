@@ -1,8 +1,9 @@
 ---
 layout: post
 title: First post!
-image: /img/hello_world.jpeg
-tags: [random, exciting-stuff]
+subtitle: Hello World!
+bigimg: /img/path.jpg
+tags: [hello_world]
 ---
 
-This is my first post, how exciting!
+漸くですね！

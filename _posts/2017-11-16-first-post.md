@@ -6,4 +6,4 @@ bigimg: /img/path.jpg
 tags: [hello_world]
 ---
 
-漸くですね！
+潮時だ！
